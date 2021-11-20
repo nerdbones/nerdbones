@@ -11,7 +11,7 @@ Some info about me:
 
 ## 📫 Get in touch:
 
-- 🐦 <a href="https://www.twitter.com/nerdbones/">Twitter</a>
-- 💼 <a href="https://www.linkedin.com/in/thiagodavid/">LinkedIn</a>
-- 📸 <a href="https://www.instagram.com/nerdbones/">Instagram</a>
-- 🌎 <a href="https://about.me/nerdbones">Everything else</a>
+- 🐦 <a href="https://www.twitter.com/nerdbones/">twitter</a>
+- 💼 <a href="https://www.linkedin.com/in/thiagodavid/">linkedin</a>
+- 📸 <a href="https://www.instagram.com/nerdbones/">instagram</a>
+- 🌎 <a href="https://about.me/nerdbones">everything else</a>
